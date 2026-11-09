@@ -5,8 +5,5 @@ Lisa
 Amir
 Noah
 Emma
-<<<<<<< HEAD
 Omar
-=======
 Fatima
->>>>>>> 9337bdcad48c9d770469aa66b6bb1fa5346a198d
